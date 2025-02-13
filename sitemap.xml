@@ -2,17 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.seunghyukoh.com/post/</loc>
-    <lastmod>2025-02-13T16:39:28+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.seunghyukoh.com/</loc>
-    <lastmod>2025-02-13T16:39:28+09:00</lastmod>
-  </url><url>
     <loc>https://blog.seunghyukoh.com/archives/</loc>
   </url><url>
     <loc>https://blog.seunghyukoh.com/categories/</loc>
   </url><url>
     <loc>https://blog.seunghyukoh.com/search/</loc>
+  </url><url>
+    <loc>https://blog.seunghyukoh.com/</loc>
   </url><url>
     <loc>https://blog.seunghyukoh.com/tags/</loc>
   </url>
